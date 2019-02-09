@@ -1,0 +1,29 @@
+FILE HANDLING C
+---------------
+---------------
+
+Contents of this folder are aimed at giving you, at the least, a basic understanding of how File Handling works in C.
+The basics of this topic remain the same in other languages, with respective syntax differences that may follow. 
+Efforts have been made to make the topic as lucid and comprehensive for you as it can be.
+It is hoped that the documents and/or resources given in this folder are of help to you in as many ways as possible.
+
+
+CONTENTS OF THE FOLDER:
+-----------------------
+
+1. FileHandling_Reference: Introductory overview (includes: more specifications about the discussion that accompanies the Presentation, links to external resources);
+
+2. C The Programming Language by Kernighan-Ritchie;
+
+3. C The Complete Reference by Herbert Schildt: For further general reader about the language;
+
+4. FileHandling_Presentation: Made with the intention of presenting it live (verbally in detail), hence contains only very brief phrases and/or words in most of the slides without any textual explanation. If you are viewing the presentation on your own, it is recommended that you read any of the PDFs for File Handling first and then refer to the Presentation;
+
+5. SampleProgram (can be viewed in any text editor): Answer to the question given at the end of the Presentation.
+
+----------------------
+
+I shall be glad to address absolutely any kind of feedback regarding the aforementioned things, or any (unintentional) errors that you find.
+I can be contacted at kamble.nidhee@gmail.com.
+
+----------------------
