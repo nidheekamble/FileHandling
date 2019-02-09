@@ -15,6 +15,7 @@ INTENTION
 
 Learning should be an interesting and memorable experience, not a chore. I believe that the true meaning of knowledge lies in spraeding it, and these are/were my efforts to do the same. I hope that the readers and/or consumers of this repository, irrespective of their backgrounds, find it to be significantly catalysing in invoking their passion for the topic.
 
+![Image here](https://github.com/nidheekamble/FileHandling/blob/master/Python/unmodified.PNG)
 
 DESCRIPTION
 -----------
